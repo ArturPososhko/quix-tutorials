@@ -1,5 +1,6 @@
 # Learning Quix
 In this repository I'm playing with Quix.io
 
-## 1. Get started 
-https://quix.io/docs/get-started/quix-start.html
+## How to use this repo 
+- Each tutorial has its own branch.
+- Notes from each tutorial will be in this README document on the main branch (most probably)
